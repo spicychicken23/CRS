@@ -1,2 +1,2 @@
-# CRS
+# Course Registration System
 IP Project 
